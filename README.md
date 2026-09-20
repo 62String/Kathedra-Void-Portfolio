@@ -4,7 +4,7 @@
 
 | 作品 | チーム・担当者 | 開発環境 |
 | --- | --- | --- |
-| 2D トップダウン エクストラクション シューター<br/>『Kathedra Void』 | プログラマー2名<br/>（シニアエンジニア1名 / 自分1名）<br/>ユ・キヒョン / 62String | Unity 2022（URP）/ C#<br/>Wwise・Spine<br/>New Input System・ScriptableObject |
+| 2D トップダウン エクストラクション シューター<br/>『Kathedra Void』 | プログラマー2名<br/>（シニアエンジニア1名 / 自分1名）<br/>ユ・ギヒョン / 62String | Unity 2022（URP）/ C#<br/>Wwise・Spine<br/>New Input System・ScriptableObject |
 
 ## 掲載範囲
 
