@@ -4,7 +4,7 @@
 
 | 作品 | チーム・担当者 | 開発環境 |
 | --- | --- | --- |
-| 2D トップダウン エクストラクション シューター<br/>『Kathedra Void』 | プログラマー2名<br/>（シニアエンジニア1名 / 自分1名）<br/>ユ・ギヒョン / 62String | Unity 2022（URP）/ C#<br/>Wwise・Spine<br/>New Input System・ScriptableObject |
+| 2D トップダウン エクストラクション シューター<br/>『Kathedra Void』 | プログラマー2名<br/>（シニアエンジニア1名 / 自分1名）<br/>ユ・キヒョン / 62String | Unity 2022（URP）/ C#<br/>Wwise・Spine<br/>New Input System・ScriptableObject |
 
 ## 掲載範囲
 
@@ -260,6 +260,6 @@ Wwise SDK の Unity への組み込み手順を調査・検証し、Mac / Window
 
 ## 参加期間
 
-**2026年2月 〜 2026年5月（約3か月）**
+**2026年2月15日 〜 2026年5月11日（約3か月）**
 
 プロジェクトリポジトリの立ち上げから参加し、UI・インプット・サウンド・アニメーションの各基盤を担当しました。シニアエンジニアは途中から合流したため、リポジトリの初期構築は自分が行っています。
