@@ -6,7 +6,7 @@
 
 | 작품 | 팀·담당자 | 개발 환경 |
 | --- | --- | --- |
-| 2D 탑다운 익스트랙션 슈터<br/>『Kathedra Void』 | 프로그래머 2명<br/>(시니어 엔지니어 1명 / 본인 1명)<br/>ユ・ギヒョン / 62String | Unity 2022(URP) / C#<br/>Wwise·Spine<br/>New Input System·ScriptableObject |
+| 2D 탑다운 익스트랙션 슈터<br/>『Kathedra Void』 | 프로그래머 2명<br/>(시니어 엔지니어 1명 / 본인 1명)<br/>유기현 / 62String | Unity 2022(URP) / C#<br/>Wwise·Spine<br/>New Input System·ScriptableObject |
 
 ## 게시 범위
 
