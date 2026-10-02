@@ -1,3 +1,5 @@
+[日本語](README.md) | [한국어](README.ko.md)
+
 # Kathedra Void | Unity実装ポートフォリオ
 
 **Wwise のサウンド基盤、New Input System のコンテキスト管理、アニメーション実装の抽象化を、シニアエンジニアが構築した既存フレームワークに組み込む役割を担当しました。**
